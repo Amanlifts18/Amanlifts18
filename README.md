@@ -22,7 +22,7 @@
 ---
 
 ## 👋 About Me
-I am an Automation and SAP Performance Engineer specializing in designing and delivering automated test frameworks and performance validation for complex SAP landscapes. I combine automation (Selenium, Java, TestNG, API testing) with deep SAP performance expertise (ST12, ST05, ST04, STAD, SM66, SM51), ABAP & SQL tuning, and load testing (LoadRunner, JMeter) to optimize system reliability, scalability, and user experience. 
+I am an Automation and SAP Performance Engineer specializing in designing and delivering automated test frameworks and performance validation for complex SAP landscapes. I combine automation (Selenium, Java, TestNG, API testing) with deep SAP performance expertise (ST12, ST05, ST04, STAD, SM66, SM51), ABAP & SQL tuning, and load testing (LoadRunner, JMeter) to optimize system reliability, scalability, and user experience.
 
 I enjoy turning performance challenges into efficient, scalable solutions—building tools and pipelines that speed testing, reduce downtime, and deliver measurable improvements in throughput and response time.
 
@@ -96,18 +96,10 @@ Jan 2024 – Present (Client: Apple)
 
 ---
 
-## 📌 Pinned Projects
-Replace REPO_NAME with your actual repo names to show live pinned cards.
-
+## 📌 Pinned Project
 <p align="center">
-  <a href="https://github.com/Amanlifts18/REPO_NAME_1" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amanlifts18&repo=REPO_NAME_1&theme=default" alt="Pinned repo 1" />
-  </a>
-  <a href="https://github.com/Amanlifts18/REPO_NAME_2" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amanlifts18&repo=REPO_NAME_2&theme=default" alt="Pinned repo 2" />
-  </a>
-  <a href="https://github.com/Amanlifts18/REPO_NAME_3" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amanlifts18&repo=REPO_NAME_3&theme=default" alt="Pinned repo 3" />
+  <a href="https://github.com/Amanlifts18/selenium-automation" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amanlifts18&repo=selenium-automation&theme=default" alt="selenium-automation" />
   </a>
 </p>
 
