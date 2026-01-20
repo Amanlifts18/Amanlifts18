@@ -1,6 +1,6 @@
 # Aman Kumar Singh
 <p align="center">
-  <img src="https://via.placeholder.com/160?text=Aman+K+Singh" alt="Aman Kumar Singh" width="160" style="border-radius:50%;" />
+  <img src="https://raw.githubusercontent.com/Amanlifts18/Amanlifts18/main/avatar.png" alt="Aman Kumar Singh" width="160" style="border-radius:50%;" />
 </p>
 
 <p align="center">
